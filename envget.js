@@ -54,4 +54,5 @@ for (let line of lines) {
 }
 
 // not found
+console.error(`${key} not found in file ${file}`);
 process.exit(1);
