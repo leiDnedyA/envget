@@ -1,0 +1,20 @@
+{
+  "name": "envget",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node envget.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leiDnedyA/envget.git"
+  },
+  "keywords": [],
+  "author": "Ayden Diel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leiDnedyA/envget/issues"
+  },
+  "homepage": "https://github.com/leiDnedyA/envget#readme",
+  "description": ""
+}
